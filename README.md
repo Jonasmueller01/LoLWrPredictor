@@ -1,1 +1,3 @@
 # LoLWrPredictor
+
+print("Hello World")
